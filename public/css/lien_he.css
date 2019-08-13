@@ -1,0 +1,52 @@
+Style Attribute {
+    position: absolute;
+    z-index: 0;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    border-width: 0px;
+    margin: 0px;
+    cursor: url(https://maps.gstatic.com/mapfiles/openhand_8_8.cur), default;
+    touch-action: pan-x pan-y;
+}
+input[type=submit].wpcf7-submit, button.button.redbg {
+    background: #e41b23;
+    color: #ffffff;
+    border-color: #e41b23;
+}
+@media (min-width: 1200px)
+.container {
+    width: 1170px;
+}
+input[type="text"], input[type="email"], input[type="url"], input[type="tel"], input[type="password"], input[type="search"], select, textarea, input-text {
+    padding: 0 10px;
+    line-height: 34px;
+    width: 100%;
+}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], textarea {
+    color: #222;
+    border: 1px solid #ddd;
+}
+
+
+.btn.focus, .btn:focus, .btn:hover {
+    color: #333;
+    text-decoration: none;
+    
+}
+/* button:hover {
+    background: 0 0;
+    border: 2px solid #fff;
+    color: goldenrod;
+    transition: all .25s ease-out;
+    background: #036894;
+    border: 1px solid transparent;
+    padding: 4px 15px;
+    color: #fff;
+} */
+/* gm-style-pbc{
+    width: 1140px;
+    height: 450px;
+} */

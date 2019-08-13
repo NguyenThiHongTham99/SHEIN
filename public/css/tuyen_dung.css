@@ -1,0 +1,161 @@
+#page-menu {
+    background: #f4f5f9;
+}
+#page-menu ul > li.current-menu-item > a{
+    color: #e41b23;
+}
+#page-menu ul > li > a {
+    line-height: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a, #infinite-handle span {
+    color: #222;
+}
+.cwvn-title, .cwvn-title a, h2.entry-title {
+    margin: 0px;
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 26px;
+    color: #e41b23;
+}
+.cwvn-title.center, h2.entry-title.center {
+    text-align: center;
+}
+.cwvn-title.center:after, h2.entry-title.center:after {
+    margin-left: auto;
+    margin-right: auto;
+}
+.cwvn-title:after, h2.entry-title:after {
+    content: "";
+    display: block;
+    margin: 12px 0px 30px;
+    height: 3px;
+    background: url(/wp-content/assets/fcccorp/separator-title.png) center no-repeat;
+    width: 150px;
+}
+.cwvn-section {
+    padding: 35px 0px;
+    background-size: cover !important;
+    position: relative;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section-short-content {
+    margin-bottom: 30px;
+    margin-top: -10px;
+}
+#corevalues-section .cv-item .thumb {
+    line-height: 90px;
+    border: 3px solid #e41b23;
+    width: 100px;
+    height: 100px;
+    margin: 0px auto 20px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.cwvn-section.center {
+    text-align: center;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+}
+#corevalues-section .cv-item .title{
+    color: #e41b23;
+}
+  p{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+  }
+  .cwvn-section.gray {
+    background: #f4f5f9;
+}
+.cwvn-title.center, h2.entry-title.center {
+    text-align: center;
+}
+.cwvn-title {
+    margin: 0px;
+}
+ul.tabs li.active button.button, button:hover, html input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover, .btn:hover, #main-slider #header-title-area button:hover, button.red, html input[type=button].red, input[type=reset].red, input[type=submit].red, .btn.red, button.gray:hover, html input[type=button].gray:hover, input[type=reset].gray:hover, input[type=submit].gray:hover, .btn.gray:hover, .button.active {
+    border-color: #ef1520;
+    color: #ffffff;
+    background: #ef1520;
+}
+button, html input[type=button], input[type=reset], input[type=submit], .btn {
+    text-transform: uppercase;
+    border: 2px solid #222222;
+    background: none;
+    padding: 0px 10px;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 0px;
+    color: #222222;
+}
+#jobs-section ul.tabs li {
+    display: inline-block;
+    text-align: center
+}
+.container{
+    text-align: center;
+}
+#jobs-section .content ul li {
+    padding: 5px 0px;
+}
+ul.tabs, #jobs-section .content ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+ul.cwvn-list li > a:before, .cwvn-list li:before, #jobs-section .content ul li:before {
+    content: "\f0a9";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    text-rendering: auto;
+    
+    margin-right: 10px;
+}
+
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 12px;
+}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #ddd;
+}
+#join-us {
+    background: #e41b23;
+    padding: 15px 0px;
+    margin-top: -6px;
+}
+#join-us .left {
+    line-height: 34px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffffff;
+}
+button.light, html input[type=button].light, input[type=reset].light, input[type=submit].light, .btn.light {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+button, html input[type=button], input[type=reset], input[type=submit], .btn {
+    text-transform: uppercase;
+    border: 2px solid #222222;
+    background: none;
+    padding: 0px 10px;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 0px;
+    color: #222222;
+}
